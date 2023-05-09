@@ -6,5 +6,5 @@ if ($age >= 18) {
 } elseif ($age < 18) { 
     echo "Je suis mineur"; 
 } else {
-    echo "Y a un problème en php"; 
+    echo "Y a un problème"; 
 }
