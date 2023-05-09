@@ -9,4 +9,4 @@ function affiche($n)
         echo $ligne . "\n <br>";
     }
 }
-affiche(10);
+affiche(100);
