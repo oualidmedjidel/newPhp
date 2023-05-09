@@ -4,4 +4,4 @@ $films = array("Le Parrain", "Forrest Gump", "Le Seigneur des anneaux", "Star Wa
 for ($i = 0; $i < count($films); $i++) {
     echo $films[$i] . "<br>";
 }
-?>
+
